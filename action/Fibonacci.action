@@ -1,5 +1,6 @@
 # Goal
 int32 order
+example_interfaces/ExampleMessage example
 ---
 # Result
 int32[] sequence
